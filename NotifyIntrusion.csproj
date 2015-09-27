@@ -49,6 +49,7 @@
     <Compile Include="BL\Notifyer.cs" />
     <Compile Include="Common\Constants.cs" />
     <Compile Include="Logger.cs" />
+    <Compile Include="Models\CamRequest.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
